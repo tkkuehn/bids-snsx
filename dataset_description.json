@@ -1,0 +1,16 @@
+{
+    "Name": "Stereotactic Neurosurgery 7T Control Dataset (SNSX-32)",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Jonathan C. Lau",
+        "Yiming Xiao",
+        "Roy A. M. Haast",
+        "Greydon Gilmore",
+        "Kâmil Uludağ",
+        "Keith W. MacDougall",
+        "Ravi S. Menon",
+        "Andrew G. Parrent",
+        "Terry M. Peters",
+        "Ali R. Khan"
+    ]
+}
