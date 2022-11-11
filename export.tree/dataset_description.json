@@ -1,0 +1,31 @@
+{
+    "Name": "Stereotactic Neurosurgery 7T Control Dataset (SNSX-32)",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Jonathan C. Lau",
+        "Yiming Xiao",
+        "Roy A. M. Haast",
+        "Greydon Gilmore",
+        "Kâmil Uludağ",
+        "Keith W. MacDougall",
+        "Ravi S. Menon",
+        "Andrew G. Parrent",
+        "Terry M. Peters",
+        "Ali R. Khan"
+    ],
+    "Acknowledgements": "We acknowledge support from: \n\nBrain Canada Platform Support Grant, Canada First Research Excellence Fund BrainsCAN Program, Canada Research, Chairs Award Number 950-231964, CIHR Foundation Grant Number FDN 201409, CIHR Project Grant Number 366062, and NSERC Discovery Grant Number 6639. \n\nWe would also like to acknowledge Catherine Currie for her assistance with recruiting participants for this study.",
+    "License": "CC0",
+    "EthicsApprovals": [
+        "Western University Health Sciences Research Ethics Board (R-17-156)"
+    ],
+    "Funding": [
+        "Brain Canada Platform Support Grant",
+        "Canada First Research Excellence Fund BrainsCAN Program",
+        "Canada Research Chairs Award Number 950-231964",
+        "CIHR Foundation Grant Number FDN 201409",
+        "CIHR Project Grant Number 366062",
+        "NSERC Discovery Grant Number 6639"
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004241.v1.0.0"
+}

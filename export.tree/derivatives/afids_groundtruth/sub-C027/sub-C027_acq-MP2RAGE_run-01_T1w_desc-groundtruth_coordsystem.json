@@ -1,0 +1,168 @@
+{
+   "IntendedFor": "anat/sub-C027_acq-MP2RAGE_run-01_T1w_desc-ratermean(intended)_afids/.nii.gz",
+   "FiducialsCoordinateSystem": "RAS",
+   "FiducialsCoordinateUnits": "mm",
+   "FiducialsCoordinateSystemDescription": "RAS orientation: Origin halfway between LPA and RPA, positive x-axis towards RPA, positive y-axis orthogonal to x-axis through Nasion,  z-axis orthogonal to xy-plane, pointing in superior direction.",
+   "FiducialsCoordinates": {
+      "AC": [
+         0.0815786666666667,
+         0.0136758,
+         -13.0261
+      ],
+      "PC": [
+         0.599895,
+         -22.6388333333333,
+         -19.4478666666667
+      ],
+      "infracollicular sulcus": [
+         0.609938333333333,
+         -30.2922666666667,
+         -28.6836666666667
+      ],
+      "PMJ": [
+         -0.0428459,
+         -14.3308333333333,
+         -31.9655
+      ],
+      "superior interpeduncular fossa": [
+         0.0320493333333333,
+         -9.57133666666667,
+         -21.9921
+      ],
+      "R superior LMS": [
+         11.6326333333333,
+         -20.9612333333333,
+         -26.8097666666667
+      ],
+      "L superior LMS": [
+         -9.86560333333333,
+         -21.6630666666667,
+         -25.7619
+      ],
+      "R inferior LMS": [
+         9.84933333333333,
+         -19.4179333333333,
+         -34.7073333333333
+      ],
+      "L inferior LMS": [
+         -9.70943666666667,
+         -19.6341333333333,
+         -33.9886666666667
+      ],
+      "culmen": [
+         0.408290966666667,
+         -47.1733666666667,
+         -23.9978
+      ],
+      "intermammillary sulcus": [
+         -0.36025,
+         -4.71493666666667,
+         -24.7880333333333
+      ],
+      "R MB": [
+         1.45083333333333,
+         -5.29354,
+         -23.7928333333333
+      ],
+      "L MB": [
+         -2.15778333333333,
+         -5.12511666666667,
+         -23.8279
+      ],
+      "pineal gland": [
+         1.32180666666667,
+         -30.0043,
+         -19.6967333333333
+      ],
+      "R LV at AC": [
+         10.7087666666667,
+         -4.76273666666667,
+         5.52905333333333
+      ],
+      "L LV at AC": [
+         -10.38085,
+         -5.99126666666667,
+         6.43210666666667
+      ],
+      "R LV at PC": [
+         18.1518666666667,
+         -28.2067666666667,
+         2.23461333333333
+      ],
+      "L LV at PC": [
+         -15.375,
+         -29.4619,
+         2.50156666666667
+      ],
+      "genu of CC": [
+         -0.449507,
+         24.5894333333333,
+         2.35167
+      ],
+      "splenium": [
+         1.03859966666667,
+         -32.226,
+         -16.5101
+      ],
+      "R AL temporal horn": [
+         29.9241666666667,
+         0.986402666666667,
+         -31.7439
+      ],
+      "L AL temporal horn": [
+         -31.3494333333333,
+         -2.45378,
+         -30.7239333333333
+      ],
+      "R superior AM temporal horn": [
+         17.1721333333333,
+         -6.23767333333333,
+         -26.1081
+      ],
+      "L superior AM temporal horn": [
+         -17.4501333333333,
+         -7.66672,
+         -25.0093333333333
+      ],
+      "R inferior AM temporal horn": [
+         16.5091666666667,
+         2.07708466666667,
+         -31.294
+      ],
+      "L inferior AM temporal horn": [
+         -18.51,
+         0.422107733333333,
+         -31.5697
+      ],
+      "R indusium griseum origin": [
+         18.1468,
+         -35.7663333333333,
+         -21.3454
+      ],
+      "L indusium griseum origin": [
+         -13.8325666666667,
+         -37.7811333333333,
+         -21.3044
+      ],
+      "R ventral occipital horn": [
+         22.5815,
+         -65.8200666666667,
+         -28.1439
+      ],
+      "L ventral occipital horn": [
+         -23.37955,
+         -56.20365,
+         -27.13435
+      ],
+      "R olfactory sulcal fundus": [
+         10.9700666666667,
+         16.6552666666667,
+         -12.8996333333333
+      ],
+      "L olfactory sulcal fundus": [
+         -12.6394333333333,
+         15.3003,
+         -12.6907333333333
+      ]
+   }
+}
