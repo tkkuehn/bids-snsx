@@ -1,5 +1,5 @@
 {
-    "Name": "Stereotactic Neurosurgery 7T Control Dataset (SNSX)",
+    "Name": "Stereotactic Neurosurgery Dataset (SNSX)",
     "BIDSVersion": "1.7.0",
     "Authors": [
         "Jonathan C. Lau",
